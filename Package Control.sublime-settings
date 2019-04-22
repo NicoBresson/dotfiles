@@ -1,17 +1,26 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"ApplySyntax",
 		"BracketHighlighter",
+		"Color Highlighter",
+		"Colorsublime",
+		"EJS 2",
 		"Emmet",
+		"ERB Snippets",
 		"Git",
 		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JsPrettier",
 		"JSX",
+		"Materialize",
 		"Package Control",
-		"SCSS",
-		"ERB Snippets"
+		"SCSS"
 	]
 }

@@ -1,33 +1,41 @@
 {
-  "detect_indentation": false,
-  "draw_white_space": true,
-  "ensure_newline_at_eof_on_save": true,
-  "update_check": false,
-  "folder_exclude_patterns":
-  [
-    "tmp",
-    "log",
-    ".git",
-    "_site",
-    ".bundle",
-    ".sass-cache",
-    "build"
-  ],
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "remember_open_files": false,
-  "rulers":
-  [
-    80
-  ],
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_automatic_white_space": true,
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  "wordWrap": false
+	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"log",
+		".git",
+		"_site",
+		".bundle",
+		".sass-cache",
+		"build"
+	],
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Material Spaceblack.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"use_tab_stops": true,
+	"wordWrap": false
 }
